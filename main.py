@@ -15,7 +15,7 @@ def get_dos_date(page):
 
     if not date_value:
         return (0, "")
-    # print(1,date_value)
+    
     return (1,date_value)
 
 def get_provider(page):
@@ -54,9 +54,6 @@ def sort_by_facility(pages):
 
 
 
-# data["pages"].sort(key=get_provider)  #Sort pages by provider name
-# print(data["pages"])
-# data["pages"].sort(key=get_dos_date)   # Sort pages by DOS date
 
 if __name__ == "__main__":
 
@@ -76,3 +73,6 @@ if __name__ == "__main__":
 #         print(f"Page {i}: {dos_value}")
 # all_provider_name()
 
+# data["pages"].sort(key=get_provider)  #Sort pages by provider name
+# print(data["pages"])
+# data["pages"].sort(key=get_dos_date)   # Sort pages by DOS date
