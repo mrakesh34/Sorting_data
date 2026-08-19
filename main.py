@@ -28,6 +28,16 @@ def get_provider(page):
     
     return ""
 
+def get_facility(page):
+
+    facility = page.get("metadata", {}).get("facility_name")
+
+
+    if isinstance(facility, dict):
+        return facility.get("value") or ""
+    
+    return ""
+
 
 def sort_by_date(pages):
     pages.sort(key=get_dos_date)
@@ -35,6 +45,10 @@ def sort_by_date(pages):
 
 def sort_by_provider(pages):
     pages.sort(key=get_provider)
+    return pages
+
+def sort_by_facility(pages):
+    pages.sort(key=get_facility)
     return pages
 
 
@@ -49,7 +63,7 @@ if __name__ == "__main__":
     with open(INPUT_FILE, "r", encoding="utf-8") as file:
         data = json.load(file)
 
-    sort_by_date(data["pages"])
+    sort_by_date(data["pages"])  #Sort pages by DOS date
 
     with open(OUTPUT_FILE, "w", encoding="utf-8") as file:
         json.dump(data, file, indent=2, ensure_ascii=False)
