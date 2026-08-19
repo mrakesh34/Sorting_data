@@ -1,0 +1,4593 @@
+{
+  "pages": [
+    {
+      "input_page_index": 1,
+      "document_type": "Administrative Doc",
+      "metadata": {
+        "document_title": "MORGAN & MORGAN",
+        "packet_generation_date": null,
+        "candidate_dos_dates": [
+          {
+            "value": "2025-07-28",
+            "confidence": "high",
+            "reason": "Date of Accident explicitly listed",
+            "location": "narrative_body",
+            "context_line": "Date of Accident: | 7/28/2025 |",
+            "surrounding_text": "Our Client: | Adrian Baptiste | Date of Accident: | 7/28/2025 | Date of Birth:"
+          }
+        ],
+        "provider": {
+          "value": "Adam Bugg",
+          "confidence": "medium",
+          "role": "attorney",
+          "reason": "Listed as Esq. representing the client"
+        },
+        "provider_designation": {
+          "value": "Esq."
+        },
+        "facility_name": {
+          "value": "Florida Orthopaedic Institute",
+          "confidence": "high",
+          "reason": "Recipient of the request",
+          "context_line": "Florida Orthopaedic Institute"
+        },
+        "section_headers": []
+      },
+      "markers": {
+        "clinical_note_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "has_narrative_sentences": {
+          "value": true
+        },
+        "emergency_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "hospitalization_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "chiropractic_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "therapy_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "re_evaluation_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "laboratory_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "administrative_marker": {
+          "value": true,
+          "evidence": [
+            "request for records"
+          ]
+        },
+        "billing_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "clinical_discharge_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "ems_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "legal_marker": {
+          "value": true,
+          "evidence": [
+            "claim",
+            "represented by"
+          ]
+        },
+        "clinical_intake_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "admin_intake_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "procedural_consent_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "official_crash_report_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "patient_education_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "flow_sheet_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "new_document_marker": {
+          "value": true,
+          "evidence": [
+            "MORGAN & MORGAN"
+          ]
+        },
+        "continuation_page_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "page_seq_marker": {
+          "page_seq_text": null
+        },
+        "clinical_topic_match": {
+          "value": false,
+          "confidence": "high",
+          "reason": ""
+        }
+      },
+      "ambiguities": [],
+      "page_no": "1"
+    },
+    {
+      "input_page_index": 2,
+      "document_type": "Administrative Doc",
+      "metadata": {
+        "document_title": "AUTHORIZATION FOR RELEASE OF PROTECTED HEALTH INFORMATION (PHI)",
+        "packet_generation_date": null,
+        "candidate_dos_dates": [],
+        "provider": {
+          "value": "Melissa Sundberg-Penny",
+          "confidence": "medium",
+          "role": "paralegal",
+          "reason": "Named as the representative requesting the release"
+        },
+        "provider_designation": null,
+        "facility_name": {
+          "value": "Florida Orthopaedic Institute",
+          "confidence": "high",
+          "reason": "The healthcare provider being directed to release info",
+          "context_line": "Florida Orthopaedic Institute 2653 Bruce B. Downs Blvd., Suite 201"
+        },
+        "section_headers": []
+      },
+      "markers": {
+        "clinical_note_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "has_narrative_sentences": {
+          "value": true
+        },
+        "emergency_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "hospitalization_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "chiropractic_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "therapy_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "re_evaluation_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "laboratory_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "administrative_marker": {
+          "value": true,
+          "evidence": [
+            "AUTHORIZATION FOR RELEASE OF PROTECTED HEALTH INFORMATION"
+          ]
+        },
+        "billing_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "clinical_discharge_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "ems_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "legal_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "clinical_intake_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "admin_intake_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "procedural_consent_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "official_crash_report_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "patient_education_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "flow_sheet_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "new_document_marker": {
+          "value": true,
+          "evidence": [
+            "AUTHORIZATION FOR RELEASE OF PROTECTED HEALTH INFORMATION"
+          ]
+        },
+        "continuation_page_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "page_seq_marker": {
+          "page_seq_text": null
+        },
+        "clinical_topic_match": {
+          "value": false,
+          "confidence": "high",
+          "reason": ""
+        }
+      },
+      "ambiguities": [],
+      "page_no": "2"
+    },
+    {
+      "input_page_index": 3,
+      "document_type": "Administrative Doc",
+      "metadata": {
+        "document_title": "Records Requested in Electronic Format",
+        "packet_generation_date": null,
+        "candidate_dos_dates": [
+          {
+            "value": "2025-07-28",
+            "confidence": "high",
+            "reason": "Date of accident mentioned in context of authorization duration",
+            "location": "narrative_body",
+            "context_line": "occurred on 7/28/2025 (month/day/year)",
+            "surrounding_text": "accident which involved the patient and occurred on 7/28/2025 (month/day/year), unless"
+          }
+        ],
+        "provider": null,
+        "provider_designation": null,
+        "facility_name": null,
+        "section_headers": [
+          "REQUIRED DISCLOSURES - 45 CFR 164.508(c)"
+        ]
+      },
+      "markers": {
+        "clinical_note_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "has_narrative_sentences": {
+          "value": true
+        },
+        "emergency_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "hospitalization_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "chiropractic_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "therapy_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "re_evaluation_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "laboratory_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "administrative_marker": {
+          "value": true,
+          "evidence": [
+            "Records Requested"
+          ]
+        },
+        "billing_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "clinical_discharge_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "ems_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "legal_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "clinical_intake_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "admin_intake_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "procedural_consent_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "official_crash_report_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "patient_education_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "flow_sheet_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "new_document_marker": {
+          "value": true,
+          "evidence": [
+            "Records Requested in Electronic Format"
+          ]
+        },
+        "continuation_page_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "page_seq_marker": {
+          "page_seq_text": null
+        },
+        "clinical_topic_match": {
+          "value": false,
+          "confidence": "high",
+          "reason": ""
+        }
+      },
+      "ambiguities": [],
+      "page_no": "3"
+    },
+    {
+      "input_page_index": 4,
+      "document_type": "Administrative Doc",
+      "metadata": {
+        "document_title": "Medical Records - CONFIDENTIAL",
+        "packet_generation_date": null,
+        "candidate_dos_dates": [
+          {
+            "value": "2025-07-28",
+            "confidence": "high",
+            "reason": "Start of date range for records",
+            "location": "narrative_body",
+            "context_line": "Date Range: 07/28/2025 to 04/07/2026",
+            "surrounding_text": "DOB: 10/25/1988 Date Range: 07/28/2025 to 04/07/2026 This document"
+          }
+        ],
+        "provider": {
+          "value": "Christian Y",
+          "confidence": "medium",
+          "role": "sender",
+          "reason": "Listed as the person from Orthopaedic Solutions Management sending the fax"
+        },
+        "provider_designation": null,
+        "facility_name": {
+          "value": "FL - Orthopaedic Solutions Management",
+          "confidence": "high",
+          "reason": "Listed as the source of the records",
+          "context_line": "FROM: FL - Orthopaedic Solutions Management"
+        },
+        "section_headers": [
+          "Medical Records - CONFIDENTIAL"
+        ]
+      },
+      "markers": {
+        "clinical_note_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "has_narrative_sentences": {
+          "value": true
+        },
+        "emergency_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "hospitalization_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "chiropractic_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "therapy_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "re_evaluation_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "laboratory_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "administrative_marker": {
+          "value": true,
+          "evidence": [
+            "Medical Records - CONFIDENTIAL"
+          ]
+        },
+        "billing_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "clinical_discharge_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "ems_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "legal_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "clinical_intake_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "admin_intake_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "procedural_consent_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "official_crash_report_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "patient_education_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "flow_sheet_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "new_document_marker": {
+          "value": true,
+          "evidence": [
+            "Medical Records - CONFIDENTIAL"
+          ]
+        },
+        "continuation_page_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "page_seq_marker": {
+          "page_seq_text": null
+        },
+        "clinical_topic_match": {
+          "value": false,
+          "confidence": "high",
+          "reason": ""
+        }
+      },
+      "ambiguities": [],
+      "page_no": "4"
+    },
+    {
+      "input_page_index": 5,
+      "document_type": "Clinical Note",
+      "metadata": {
+        "document_title": "Encounters and Procedures",
+        "packet_generation_date": null,
+        "candidate_dos_dates": [],
+        "provider": null,
+        "provider_designation": null,
+        "facility_name": {
+          "value": "FLORIDA ORTHOPAEDIC INSTITUTE",
+          "confidence": "high",
+          "reason": "Header branding",
+          "context_line": "FLORIDA ORTHOPAEDIC INSTITUTE \u2022 5901 E FOWLER AVE STE 100, TAMPA FL 33617-2362"
+        },
+        "section_headers": [
+          "Encounters and Procedures",
+          "Clinical Encounter Summaries"
+        ]
+      },
+      "markers": {
+        "clinical_note_marker": {
+          "value": true,
+          "evidence": [
+            "Clinical Encounter Summaries"
+          ]
+        },
+        "has_narrative_sentences": {
+          "value": false
+        },
+        "emergency_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "hospitalization_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "chiropractic_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "therapy_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "re_evaluation_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "laboratory_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "administrative_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "billing_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "clinical_discharge_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "ems_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "legal_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "clinical_intake_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "admin_intake_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "procedural_consent_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "official_crash_report_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "patient_education_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "flow_sheet_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "new_document_marker": {
+          "value": true,
+          "evidence": [
+            "Encounters and Procedures"
+          ]
+        },
+        "continuation_page_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "page_seq_marker": {
+          "page_seq_text": null
+        },
+        "clinical_topic_match": {
+          "value": false,
+          "confidence": "high",
+          "reason": ""
+        }
+      },
+      "ambiguities": [],
+      "page_no": "5"
+    },
+    {
+      "input_page_index": 6,
+      "document_type": "Clinical Note",
+      "metadata": {
+        "document_title": "BAPTISTE, Adrian (id #5308762, dob: 10/25/1988)",
+        "packet_generation_date": null,
+        "candidate_dos_dates": [
+          {
+            "value": "2026-02-17",
+            "confidence": "high",
+            "reason": "Explicit encounter date",
+            "location": "top_header",
+            "context_line": "Encounter Date: 02/17/2026",
+            "surrounding_text": "id #5308762, dob: 10/25/1988 Encounter Date: 02/17/2026 Patient"
+          }
+        ],
+        "provider": {
+          "value": "ADIL SAMAD",
+          "confidence": "high",
+          "role": "attending",
+          "reason": "Listed under Provider"
+        },
+        "provider_designation": {
+          "value": "MD"
+        },
+        "facility_name": {
+          "value": "FLORIDA ORTHOPAEDIC INSTITUTE",
+          "confidence": "high",
+          "reason": "Letterhead facility name",
+          "context_line": "FLORIDA ORTHOPAEDIC INSTITUTE \u2022 5901 E FOWLER AVE STE 100, TAMPA FL 33617-2362"
+        },
+        "section_headers": [
+          "Chief Complaint",
+          "Patient\u2019s Care Team",
+          "Patient\u2019s Pharmacies",
+          "Vitals",
+          "Allergies",
+          "Medications",
+          "Vaccines",
+          "Problems",
+          "Family History",
+          "Social History"
+        ]
+      },
+      "markers": {
+        "clinical_note_marker": {
+          "value": true,
+          "evidence": [
+            "Chief Complaint",
+            "follow up cervical"
+          ]
+        },
+        "has_narrative_sentences": {
+          "value": true
+        },
+        "emergency_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "hospitalization_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "chiropractic_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "therapy_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "re_evaluation_marker": {
+          "value": true,
+          "evidence": [
+            "follow up cervical"
+          ]
+        },
+        "laboratory_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "administrative_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "billing_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "clinical_discharge_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "ems_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "legal_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "clinical_intake_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "admin_intake_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "procedural_consent_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "official_crash_report_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "patient_education_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "flow_sheet_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "new_document_marker": {
+          "value": true,
+          "evidence": [
+            "New encounter header"
+          ]
+        },
+        "continuation_page_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "page_seq_marker": {
+          "page_seq_text": null
+        },
+        "clinical_topic_match": {
+          "value": false,
+          "confidence": "high",
+          "reason": "Previous page was a summary/index page"
+        }
+      },
+      "ambiguities": [],
+      "page_no": "6"
+    },
+    {
+      "input_page_index": 7,
+      "document_type": "Clinical Note",
+      "metadata": {
+        "document_title": "BAPTISTE, Adrian (id #5308762, dob: 10/25/1988)",
+        "packet_generation_date": null,
+        "candidate_dos_dates": null,
+        "provider": {
+          "value": "ADIL SAMAD",
+          "confidence": "medium",
+          "role": "attending",
+          "reason": "Context from previous page"
+        },
+        "provider_designation": null,
+        "facility_name": {
+          "value": "FLORIDA ORTHOPAEDIC INSTITUTE",
+          "confidence": "high",
+          "reason": "Letterhead",
+          "context_line": "FLORIDA ORTHOPAEDIC INSTITUTE \u2022 5901 E FOWLER AVE STE 100, TAMPA FL 33617-2362"
+        },
+        "section_headers": [
+          "Education and Occupation",
+          "Advance Directive",
+          "FOI Social History",
+          "Surgical & Procedure History",
+          "Past Medical History",
+          "HPI",
+          "ROS"
+        ]
+      },
+      "markers": {
+        "clinical_note_marker": {
+          "value": true,
+          "evidence": [
+            "HPI",
+            "ROS"
+          ]
+        },
+        "has_narrative_sentences": {
+          "value": true
+        },
+        "emergency_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "hospitalization_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "chiropractic_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "therapy_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "re_evaluation_marker": {
+          "value": true,
+          "evidence": [
+            "presents today for follow up of his cervical spine"
+          ]
+        },
+        "laboratory_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "administrative_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "billing_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "clinical_discharge_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "ems_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "legal_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "clinical_intake_marker": {
+          "value": true,
+          "evidence": [
+            "FOI Social History"
+          ]
+        },
+        "admin_intake_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "procedural_consent_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "official_crash_report_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "patient_education_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "flow_sheet_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "new_document_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "continuation_page_marker": {
+          "value": true,
+          "evidence": [
+            "Continuation of social history and HPI"
+          ]
+        },
+        "page_seq_marker": {
+          "page_seq_text": null
+        },
+        "clinical_topic_match": {
+          "value": true,
+          "confidence": "high",
+          "reason": "Same patient and encounter context"
+        }
+      },
+      "ambiguities": [],
+      "page_no": "7"
+    },
+    {
+      "input_page_index": 8,
+      "document_type": "Clinical Note",
+      "metadata": {
+        "document_title": "BAPTISTE, Adrian (id #5308762, dob: 10/25/1988)",
+        "packet_generation_date": null,
+        "candidate_dos_dates": [
+          {
+            "value": "2026-02-17",
+            "confidence": "high",
+            "reason": "Encounter sign-off date",
+            "location": "bottom_signature",
+            "context_line": "Encounter signed-off by Adil Samad, MD, 02/17/2026.",
+            "surrounding_text": "Adil Samad, MD, 02/17/2026. Encounter performed"
+          }
+        ],
+        "provider": {
+          "value": "ADIL SAMAD",
+          "confidence": "high",
+          "role": "attending",
+          "reason": "Signed the encounter"
+        },
+        "provider_designation": {
+          "value": "MD"
+        },
+        "facility_name": {
+          "value": "FLORIDA ORTHOPAEDIC INSTITUTE",
+          "confidence": "high",
+          "reason": "Letterhead",
+          "context_line": "FLORIDA ORTHOPAEDIC INSTITUTE \u2022 5901 E FOWLER AVE STE 100, TAMPA FL 33617-2362"
+        },
+        "section_headers": [
+          "Physical Exam",
+          "Assessment / Plan",
+          "Cervical radiculopathy",
+          "Return to Office",
+          "Encounter Sign-Off"
+        ]
+      },
+      "markers": {
+        "clinical_note_marker": {
+          "value": true,
+          "evidence": [
+            "Physical Exam",
+            "Assessment / Plan"
+          ]
+        },
+        "has_narrative_sentences": {
+          "value": true
+        },
+        "emergency_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "hospitalization_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "chiropractic_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "therapy_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "re_evaluation_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "laboratory_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "administrative_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "billing_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "clinical_discharge_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "ems_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "legal_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "clinical_intake_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "admin_intake_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "procedural_consent_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "official_crash_report_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "patient_education_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "flow_sheet_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "new_document_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "continuation_page_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "page_seq_marker": {
+          "page_seq_text": null
+        },
+        "clinical_topic_match": {
+          "value": true,
+          "confidence": "high",
+          "reason": "Continuation of the same clinical note"
+        }
+      },
+      "ambiguities": [],
+      "page_no": "8"
+    },
+    {
+      "input_page_index": 9,
+      "document_type": "Clinical Note",
+      "metadata": {
+        "document_title": "BAPTISTE, Adrian (id #5308762, dob: 10/25/1988)",
+        "packet_generation_date": null,
+        "candidate_dos_dates": [
+          {
+            "value": "2026-01-20",
+            "confidence": "high",
+            "reason": "Encounter date for a different visit",
+            "location": "top_header",
+            "context_line": "Encounter Date: 01/20/2026",
+            "surrounding_text": "Adrian (id #5308762, dob: 10/25/1988) Encounter Date: 01/20/2026 Patient"
+          }
+        ],
+        "provider": {
+          "value": "ADIL SAMAD",
+          "confidence": "high",
+          "role": "attending",
+          "reason": "Listed under Provider"
+        },
+        "provider_designation": {
+          "value": "MD"
+        },
+        "facility_name": {
+          "value": "FLORIDA ORTHOPAEDIC INSTITUTE",
+          "confidence": "high",
+          "reason": "Letterhead",
+          "context_line": "FLORIDA ORTHOPAEDIC INSTITUTE \u2022 5901 E FOWLER AVE STE 100, TAMPA FL 33617-2362"
+        },
+        "section_headers": [
+          "Chief Complaint",
+          "Patient\u2019s Care Team",
+          "Patient\u2019s Pharmacies",
+          "Vitals",
+          "Allergies",
+          "Medications",
+          "Vaccines",
+          "Problems",
+          "Family History",
+          "Social History"
+        ]
+      },
+      "markers": {
+        "clinical_note_marker": {
+          "value": true,
+          "evidence": [
+            "Chief Complaint",
+            "follow up cervical"
+          ]
+        },
+        "has_narrative_sentences": {
+          "value": true
+        },
+        "emergency_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "hospitalization_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "chiropractic_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "therapy_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "re_evaluation_marker": {
+          "value": true,
+          "evidence": [
+            "follow up cervical"
+          ]
+        },
+        "laboratory_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "administrative_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "billing_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "clinical_discharge_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "ems_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "legal_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "clinical_intake_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "admin_intake_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "procedural_consent_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "official_crash_report_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "patient_education_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "flow_sheet_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "new_document_marker": {
+          "value": true,
+          "evidence": [
+            "New encounter date/header"
+          ]
+        },
+        "continuation_page_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "page_seq_marker": {
+          "page_seq_text": null
+        },
+        "clinical_topic_match": {
+          "value": false,
+          "confidence": "high",
+          "reason": "New encounter date indicates a different document/visit"
+        }
+      },
+      "ambiguities": [],
+      "page_no": "9"
+    },
+    {
+      "input_page_index": 10,
+      "document_type": "Clinical Note",
+      "metadata": {
+        "document_title": "BAPTISTE, Adrian (id #5308762, dob: 10/25/1988)",
+        "packet_generation_date": null,
+        "candidate_dos_dates": null,
+        "provider": {
+          "value": "ADIL SAMAD",
+          "confidence": "medium",
+          "role": "attending",
+          "reason": "Context from previous page"
+        },
+        "provider_designation": null,
+        "facility_name": {
+          "value": "FLORIDA ORTHOPAEDIC INSTITUTE",
+          "confidence": "high",
+          "reason": "Letterhead",
+          "context_line": "FLORIDA ORTHOPAEDIC INSTITUTE \u2022 5901 E FOWLER AVE STE 100, TAMPA FL 33617-2362"
+        },
+        "section_headers": [
+          "Education and Occupation",
+          "Advance Directive",
+          "FOI Social History",
+          "Surgical & Procedure History",
+          "Past Medical History",
+          "HPI",
+          "ROS"
+        ]
+      },
+      "markers": {
+        "clinical_note_marker": {
+          "value": true,
+          "evidence": [
+            "HPI",
+            "ROS"
+          ]
+        },
+        "has_narrative_sentences": {
+          "value": true
+        },
+        "emergency_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "hospitalization_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "chiropractic_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "therapy_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "re_evaluation_marker": {
+          "value": true,
+          "evidence": [
+            "presents today for a follow up of his cervical spine"
+          ]
+        },
+        "laboratory_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "administrative_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "billing_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "clinical_discharge_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "ems_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "legal_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "clinical_intake_marker": {
+          "value": true,
+          "evidence": [
+            "FOI Social History"
+          ]
+        },
+        "admin_intake_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "procedural_consent_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "official_crash_report_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "patient_education_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "flow_sheet_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "new_document_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "continuation_page_marker": {
+          "value": true,
+          "evidence": [
+            "Continuation of social history and HPI"
+          ]
+        },
+        "page_seq_marker": {
+          "page_seq_text": null
+        },
+        "clinical_topic_match": {
+          "value": true,
+          "confidence": "high",
+          "reason": "Continuation of the same encounter from page 9"
+        }
+      },
+      "ambiguities": [],
+      "page_no": "10"
+    },
+    {
+      "input_page_index": 11,
+      "document_type": "Clinical Note",
+      "metadata": {
+        "document_title": null,
+        "packet_generation_date": {
+          "value": null,
+          "confidence": "low",
+          "reason": null
+        },
+        "candidate_dos_dates": [
+          {
+            "value": "2025-07-28",
+            "confidence": "high",
+            "reason": "Date of motor vehicle accident mentioned in narrative",
+            "location": "narrative_body",
+            "context_line": "work related motor vehicle accident on July 28, 2025.",
+            "surrounding_text": "accident on July 28, 2025. X-rays of"
+          },
+          {
+            "value": "2025-10-31",
+            "confidence": "high",
+            "reason": "Date X-rays were performed",
+            "location": "narrative_body",
+            "context_line": "performed on October 31, 2025 at Florida Orthopaedic Institute",
+            "surrounding_text": "October 31, 2025 at Florida Orthopaedic Institute were"
+          },
+          {
+            "value": "2025-09-22",
+            "confidence": "high",
+            "reason": "Date MRI was performed",
+            "location": "narrative_body",
+            "context_line": "spine was performed on September 22, 2025.",
+            "surrounding_text": "spine was performed on September 22, 2025. MRI of"
+          },
+          {
+            "value": "2025-07-28",
+            "confidence": "high",
+            "reason": "Injury date mentioned in assessment",
+            "location": "narrative_body",
+            "context_line": "accident on July 28, 2025.",
+            "surrounding_text": "accident on July 28, 2025. X-rays of"
+          },
+          {
+            "value": "2025-10-31",
+            "confidence": "high",
+            "reason": "Date of X-ray performance",
+            "location": "narrative_body",
+            "context_line": "performed on October 31, 2025 at Florida Orthopaedic Institute",
+            "surrounding_text": "October 31, 2025 at Florida Orthopaedic Institute were"
+          },
+          {
+            "value": "2025-09-22",
+            "confidence": "high",
+            "reason": "Date of MRI performance",
+            "location": "narrative_body",
+            "context_line": "performed on September 22, 2025.",
+            "surrounding_text": "performed on September 22, 2025. MRI of"
+          }
+        ],
+        "provider": {
+          "value": null,
+          "confidence": "low",
+          "role": null,
+          "reason": "No specific provider name is explicitly linked to the signature or authorship on this specific page, although the text implies a physician wrote it."
+        },
+        "provider_designation": {
+          "value": null
+        },
+        "facility_name": {
+          "value": "FLORIDA ORTHOPAEDIC INSTITUTE",
+          "confidence": "high",
+          "reason": "Header contains facility name",
+          "context_line": "FLORIDA ORTHOPAEDIC INSTITUTE \u2022 5901 E FOWLER AVE STE 100, TAMPA FL 33617-2362"
+        },
+        "section_headers": [
+          "Physical Exam",
+          "Assessment / Plan"
+        ]
+      },
+      "markers": {
+        "clinical_note_marker": {
+          "value": true,
+          "evidence": [
+            "Physical Exam",
+            "Assessment / Plan",
+            "Constitutional",
+            "HEENT",
+            "Neck",
+            "Respiratory",
+            "Cardiovascular System",
+            "Psychiatric",
+            "Skin",
+            "Neurologic",
+            "Musculoskeletal"
+          ]
+        },
+        "has_narrative_sentences": {
+          "value": true
+        },
+        "emergency_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "hospitalization_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "chiropractic_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "therapy_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "re_evaluation_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "laboratory_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "administrative_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "billing_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "clinical_discharge_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "ems_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "legal_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "clinical_intake_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "admin_intake_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "procedural_consent_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "official_crash_report_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "patient_education_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "flow_sheet_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "new_document_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "continuation_page_marker": {
+          "value": true,
+          "evidence": [
+            "No document title",
+            "Starts with narrative"
+          ]
+        },
+        "page_seq_marker": {
+          "page_seq_text": null
+        },
+        "clinical_topic_match": {
+          "value": true,
+          "confidence": "high",
+          "reason": "Continues the clinical discussion of cervical spine/neck pain from previous page"
+        }
+      },
+      "ambiguities": [],
+      "page_no": "11"
+    },
+    {
+      "input_page_index": 12,
+      "document_type": "Clinical Note",
+      "metadata": {
+        "document_title": null,
+        "packet_generation_date": {
+          "value": null,
+          "confidence": "low",
+          "reason": null
+        },
+        "candidate_dos_dates": [
+          {
+            "value": "2026-01-28",
+            "confidence": "high",
+            "reason": "Scheduled appointment date",
+            "location": "narrative_body",
+            "context_line": "at FOI CT_NORTH TAMPA on 01/28/2026 at 02:30 PM",
+            "surrounding_text": "TAMPA on 01/28/2026 at 02:30 PM \u2022 Adil"
+          },
+          {
+            "value": "2026-02-17",
+            "confidence": "high",
+            "reason": "Scheduled appointment date",
+            "location": "narrative_body",
+            "context_line": "at WCC_WESLEY CHAPEL CLINIC on 02/17/2026 at 02:30 PM",
+            "surrounding_text": "CHAPEL CLINIC on 02/17/2026 at 02:30 PM \u2022 Adil"
+          },
+          {
+            "value": "2026-01-20",
+            "confidence": "high",
+            "reason": "Encounter sign-off date",
+            "location": "bottom_signature",
+            "context_line": "Encounter signed-off by Adil Samad, MD, 01/20/2026.",
+            "surrounding_text": "Samad, MD, 01/20/2026. Encounter performed"
+          },
+          {
+            "value": "2026-01-20",
+            "confidence": "high",
+            "reason": "Encounter review date",
+            "location": "bottom_signature",
+            "context_line": "reviewed & signed by Adil Samad, MD on 01/20/2026 at 04:27 PM",
+            "surrounding_text": "Samad, MD on 01/20/2026 at 04:27 PM"
+          }
+        ],
+        "provider": {
+          "value": "Adil Samad",
+          "confidence": "high",
+          "role": "attending",
+          "reason": "Signed the encounter"
+        },
+        "provider_designation": {
+          "value": "MD"
+        },
+        "facility_name": {
+          "value": "FLORIDA ORTHOPAEDIC INSTITUTE",
+          "confidence": "high",
+          "reason": "Header contains facility name",
+          "context_line": "FLORIDA ORTHOPAEDIC INSTITUTE \u2022 5901 E FOWLER AVE STE 100, TAMPA FL 33617-2362"
+        },
+        "section_headers": [
+          "1. Neck pain",
+          "2. Cervical radiculopathy",
+          "3. Overweight",
+          "Return to Office",
+          "Encounter Sign-Off"
+        ]
+      },
+      "markers": {
+        "clinical_note_marker": {
+          "value": true,
+          "evidence": [
+            "Neck pain",
+            "Cervical radiculopathy",
+            "Encounter Sign-Off"
+          ]
+        },
+        "has_narrative_sentences": {
+          "value": true
+        },
+        "emergency_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "hospitalization_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "chiropractic_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "therapy_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "re_evaluation_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "laboratory_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "administrative_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "billing_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "clinical_discharge_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "ems_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "legal_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "clinical_intake_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "admin_intake_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "procedural_consent_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "official_crash_report_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "patient_education_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "flow_sheet_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "new_document_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "continuation_page_marker": {
+          "value": true,
+          "evidence": [
+            "Starts mid-sentence/list",
+            "Repeated header"
+          ]
+        },
+        "page_seq_marker": {
+          "page_seq_text": null
+        },
+        "clinical_topic_match": {
+          "value": true,
+          "confidence": "high",
+          "reason": "Continues the diagnosis and sign-off of the previous note"
+        }
+      },
+      "ambiguities": [],
+      "page_no": "12"
+    },
+    {
+      "input_page_index": 13,
+      "document_type": "Clinical Intake/Questionnaire",
+      "metadata": {
+        "document_title": null,
+        "packet_generation_date": {
+          "value": null,
+          "confidence": "low",
+          "reason": null
+        },
+        "candidate_dos_dates": [
+          {
+            "value": "2025-12-10",
+            "confidence": "high",
+            "reason": "Encounter date",
+            "location": "top_header",
+            "context_line": "Encounter Date: 12/10/2025",
+            "surrounding_text": "Encounter Date: 12/10/2025 Patient Name"
+          }
+        ],
+        "provider": {
+          "value": "CHRISTOPHER BAKER",
+          "confidence": "high",
+          "role": "attending",
+          "reason": "Listed as provider in patient block"
+        },
+        "provider_designation": {
+          "value": "MD"
+        },
+        "facility_name": {
+          "value": "FLORIDA ORTHOPAEDIC INSTITUTE",
+          "confidence": "high",
+          "reason": "Header contains facility name",
+          "context_line": "FLORIDA ORTHOPAEDIC INSTITUTE \u2022 5901 E FOWLER AVE STE 100, TAMPA FL 33617-2362"
+        },
+        "section_headers": [
+          "Chief Complaint",
+          "Patient\u2019s Care Team",
+          "Patient\u2019s Pharmacies",
+          "Vitals",
+          "Allergies",
+          "Medications",
+          "Vaccines",
+          "Problems",
+          "Family History",
+          "Social History",
+          "Substance Use"
+        ]
+      },
+      "markers": {
+        "clinical_note_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "has_narrative_sentences": {
+          "value": false
+        },
+        "emergency_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "hospitalization_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "chiropractic_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "therapy_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "re_evaluation_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "laboratory_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "administrative_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "billing_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "clinical_discharge_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "ems_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "legal_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "clinical_intake_marker": {
+          "value": true,
+          "evidence": [
+            "Chief Complaint",
+            "Vitals",
+            "Allergies",
+            "Medications",
+            "Problems",
+            "Social History"
+          ]
+        },
+        "admin_intake_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "procedural_consent_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "official_crash_report_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "patient_education_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "flow_sheet_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "new_document_marker": {
+          "value": true,
+          "evidence": [
+            "New encounter header",
+            "New patient block"
+          ]
+        },
+        "continuation_page_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "page_seq_marker": {
+          "page_seq_text": null
+        },
+        "clinical_topic_match": {
+          "value": false,
+          "confidence": "high",
+          "reason": "This is a new encounter/document starting with a different date and provider"
+        }
+      },
+      "ambiguities": [],
+      "page_no": "13"
+    },
+    {
+      "input_page_index": 14,
+      "document_type": "Clinical Note",
+      "metadata": {
+        "document_title": null,
+        "packet_generation_date": {
+          "value": null,
+          "confidence": "low",
+          "reason": null
+        },
+        "candidate_dos_dates": [
+          {
+            "value": "2025-12-10",
+            "confidence": "high",
+            "reason": "Encounter sign-off date",
+            "location": "bottom_signature",
+            "context_line": "Encounter signed-off by Christopher Baker, MD, 12/10/2025.",
+            "surrounding_text": "Baker, MD, 12/10/2025. Encounter performed"
+          }
+        ],
+        "provider": {
+          "value": "CHRISTOPHER BAKER",
+          "confidence": "high",
+          "role": "attending",
+          "reason": "Signed the encounter"
+        },
+        "provider_designation": {
+          "value": "MD"
+        },
+        "facility_name": {
+          "value": "FLORIDA ORTHOPAEDIC INSTITUTE",
+          "confidence": "high",
+          "reason": "Header contains facility name",
+          "context_line": "FLORIDA ORTHOPAEDIC INSTITUTE \u2022 5901 E FOWLER AVE STE 100, TAMPA FL 33617-2362"
+        },
+        "section_headers": [
+          "Education and Occupation",
+          "Advance Directive",
+          "FOI Social History",
+          "Surgical & Procedure History",
+          "Past Medical History",
+          "HPI",
+          "ROS",
+          "Physical Exam",
+          "Assessment / Plan",
+          "Return to Office",
+          "Encounter Sign-Off"
+        ]
+      },
+      "markers": {
+        "clinical_note_marker": {
+          "value": true,
+          "evidence": [
+            "HPI",
+            "ROS",
+            "Physical Exam",
+            "Assessment / Plan",
+            "Chief Complaint"
+          ]
+        },
+        "has_narrative_sentences": {
+          "value": true
+        },
+        "emergency_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "hospitalization_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "chiropractic_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "therapy_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "re_evaluation_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "laboratory_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "administrative_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "billing_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "clinical_discharge_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "ems_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "legal_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "clinical_intake_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "admin_intake_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "procedural_consent_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "official_crash_report_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "patient_education_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "flow_sheet_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "new_document_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "continuation_page_marker": {
+          "value": true,
+          "evidence": [
+            "Continuation of patient history/intake from previous page"
+          ]
+        },
+        "page_seq_marker": {
+          "page_seq_text": null
+        },
+        "clinical_topic_match": {
+          "value": true,
+          "confidence": "high",
+          "reason": "Continues the clinical note for the 12/10/2025 encounter"
+        }
+      },
+      "ambiguities": [],
+      "page_no": "14"
+    },
+    {
+      "input_page_index": 15,
+      "document_type": "Clinical Intake/Questionnaire",
+      "metadata": {
+        "document_title": null,
+        "packet_generation_date": {
+          "value": null,
+          "confidence": "low",
+          "reason": null
+        },
+        "candidate_dos_dates": [
+          {
+            "value": "2025-11-19",
+            "confidence": "high",
+            "reason": "Encounter date",
+            "location": "top_header",
+            "context_line": "Encounter Date: 11/19/2025",
+            "surrounding_text": "Encounter Date: 11/19/2025 Patient Name"
+          }
+        ],
+        "provider": {
+          "value": "CHRISTOPHER BAKER",
+          "confidence": "high",
+          "role": "attending",
+          "reason": "Listed as provider in patient block"
+        },
+        "provider_designation": {
+          "value": "MD"
+        },
+        "facility_name": {
+          "value": "FLORIDA ORTHOPAEDIC INSTITUTE",
+          "confidence": "high",
+          "reason": "Header contains facility name",
+          "context_line": "FLORIDA ORTHOPAEDIC INSTITUTE \u2022 5901 E FOWLER AVE STE 100, TAMPA FL 33617-2362"
+        },
+        "section_headers": [
+          "Chief Complaint",
+          "Patient\u2019s Care Team",
+          "Patient\u2019s Pharmacies",
+          "Vitals",
+          "Allergies",
+          "Medications",
+          "Vaccines",
+          "Problems",
+          "Family History",
+          "Social History",
+          "Substance Use"
+        ]
+      },
+      "markers": {
+        "clinical_note_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "has_narrative_sentences": {
+          "value": false
+        },
+        "emergency_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "hospitalization_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "chiropractic_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "therapy_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "re_evaluation_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "laboratory_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "administrative_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "billing_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "clinical_discharge_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "ems_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "legal_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "clinical_intake_marker": {
+          "value": true,
+          "evidence": [
+            "Chief Complaint",
+            "Vitals",
+            "Allergies",
+            "Medications",
+            "Problems"
+          ]
+        },
+        "admin_intake_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "procedural_consent_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "official_crash_report_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "patient_education_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "flow_sheet_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "new_document_marker": {
+          "value": true,
+          "evidence": [
+            "New encounter header",
+            "New patient block"
+          ]
+        },
+        "continuation_page_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "page_seq_marker": {
+          "page_seq_text": null
+        },
+        "clinical_topic_match": {
+          "value": false,
+          "confidence": "high",
+          "reason": "This is a new encounter/document starting with a different date and provider"
+        }
+      },
+      "ambiguities": [],
+      "page_no": "15"
+    },
+    {
+      "input_page_index": 16,
+      "document_type": "Clinical Note",
+      "metadata": {
+        "document_title": "BAPTISTE, Adrian (id #5308762, dob: 10/25/1988)",
+        "packet_generation_date": null,
+        "candidate_dos_dates": [
+          {
+            "value": "2025-11-19",
+            "confidence": "high",
+            "reason": "Encounter signed-off date",
+            "location": "bottom_signature",
+            "context_line": "Encounter signed-off by Christopher Baker, MD, 11/19/2025.",
+            "surrounding_text": "Christopher Baker, MD, 11/19/2025. Return to Office"
+          },
+          {
+            "value": "2025-11-04",
+            "confidence": "high",
+            "reason": "Surgical & Procedure History last reviewed date",
+            "location": "narrative_body",
+            "context_line": "Surgical & Procedure History not reviewed (last reviewed 11/04/2025)",
+            "surrounding_text": "not reviewed (last reviewed 11/04/2025) - Ankle Surgery"
+          }
+        ],
+        "provider": {
+          "value": "Christopher Baker",
+          "confidence": "high",
+          "role": "attending",
+          "reason": "Signed off the encounter"
+        },
+        "provider_designation": {
+          "value": "MD"
+        },
+        "facility_name": {
+          "value": "FLORIDA ORTHOPAEDIC INSTITUTE",
+          "confidence": "high",
+          "reason": "Header of the document",
+          "context_line": "FLORIDA ORTHOPAEDIC INSTITUTE \u2022 5901 E FOWLER AVE STE 100, TAMPA FL 33617-2362"
+        },
+        "section_headers": [
+          "Education and Occupation",
+          "Advance Directive",
+          "FOI Social History",
+          "Surgical & Procedure History",
+          "Past Medical History",
+          "HPI",
+          "ROS",
+          "Physical Exam",
+          "Assessment / Plan",
+          "Return to Office",
+          "Encounter Sign-Off"
+        ]
+      },
+      "markers": {
+        "clinical_note_marker": {
+          "value": true,
+          "evidence": [
+            "HPI",
+            "ROS",
+            "Physical Exam",
+            "Assessment / Plan"
+          ]
+        },
+        "has_narrative_sentences": {
+          "value": true
+        },
+        "emergency_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "hospitalization_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "chiropractic_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "therapy_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "re_evaluation_marker": {
+          "value": true,
+          "evidence": [
+            "WCEP-WC ESTABLISHED PT"
+          ]
+        },
+        "laboratory_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "administrative_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "billing_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "clinical_discharge_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "ems_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "legal_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "clinical_intake_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "admin_intake_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "procedural_consent_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "official_crash_report_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "patient_education_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "flow_sheet_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "new_document_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "continuation_page_marker": {
+          "value": true,
+          "evidence": [
+            "Repeated page header"
+          ]
+        },
+        "page_seq_marker": {
+          "page_seq_text": "page 16"
+        },
+        "clinical_topic_match": {
+          "value": true,
+          "confidence": "high",
+          "reason": "Both pages discuss Adrian Baptiste's orthopedic issues."
+        }
+      },
+      "ambiguities": [],
+      "page_no": "16"
+    },
+    {
+      "input_page_index": 17,
+      "document_type": "Clinical Note",
+      "metadata": {
+        "document_title": "BAPTISTE, Adrian (id #5308762, dob: 10/25/1988)",
+        "packet_generation_date": null,
+        "candidate_dos_dates": [
+          {
+            "value": "2025-11-19",
+            "confidence": "high",
+            "reason": "Encounter reviewed & signed date",
+            "location": "bottom_signature",
+            "context_line": "Encounter reviewed & signed by Christopher Baker, MD on 11/19/2025 at 04:20 PM",
+            "surrounding_text": "Christopher Baker, MD on 11/19/2025 at 04:20 PM"
+          }
+        ],
+        "provider": {
+          "value": "Christopher Baker",
+          "confidence": "high",
+          "role": "attending",
+          "reason": "Performed and documented the encounter"
+        },
+        "provider_designation": {
+          "value": "MD"
+        },
+        "facility_name": {
+          "value": "FLORIDA ORTHOPAEDIC INSTITUTE",
+          "confidence": "high",
+          "reason": "Header of the document",
+          "context_line": "FLORIDA ORTHOPAEDIC INSTITUTE \u2022 5901 E FOWLER AVE STE 100, TAMPA FL 33617-2362"
+        },
+        "section_headers": []
+      },
+      "markers": {
+        "clinical_note_marker": {
+          "value": true,
+          "evidence": [
+            "Encounter performed and documented"
+          ]
+        },
+        "has_narrative_sentences": {
+          "value": true
+        },
+        "emergency_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "hospitalization_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "chiropractic_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "therapy_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "re_evaluation_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "laboratory_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "administrative_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "billing_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "clinical_discharge_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "ems_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "legal_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "clinical_intake_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "admin_intake_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "procedural_consent_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "official_crash_report_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "patient_education_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "flow_sheet_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "new_document_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "continuation_page_marker": {
+          "value": true,
+          "evidence": [
+            "Repeated page header"
+          ]
+        },
+        "page_seq_marker": {
+          "page_seq_text": "page 17"
+        },
+        "clinical_topic_match": {
+          "value": true,
+          "confidence": "high",
+          "reason": "Matches previous page topic."
+        }
+      },
+      "ambiguities": [],
+      "page_no": "17"
+    },
+    {
+      "input_page_index": 18,
+      "document_type": "Clinical Note",
+      "metadata": {
+        "document_title": "BAPTISTE, Adrian (id #5308762, dob: 10/25/1988)",
+        "packet_generation_date": null,
+        "candidate_dos_dates": [
+          {
+            "value": "2025-11-04",
+            "confidence": "high",
+            "reason": "Encounter Date",
+            "location": "top_header",
+            "context_line": "Encounter Date: 11/04/2025",
+            "surrounding_text": "Adrian (id #5308762, dob: 10/25/1988) Encounter Date: 11/04/2025 Patient"
+          }
+        ],
+        "provider": {
+          "value": "CHRISTOPHER BAKER",
+          "confidence": "high",
+          "role": "attending",
+          "reason": "Listed as Provider"
+        },
+        "provider_designation": {
+          "value": "MD"
+        },
+        "facility_name": {
+          "value": "FLORIDA ORTHOPAEDIC INSTITUTE",
+          "confidence": "high",
+          "reason": "Header of the document",
+          "context_line": "FLORIDA ORTHOPAEDIC INSTITUTE \u2022 5901 E FOWLER AVE STE 100, TAMPA FL 33617-2362"
+        },
+        "section_headers": [
+          "Chief Complaint",
+          "Patient\u2019s Care Team",
+          "Patient\u2019s Pharmacies",
+          "Vitals",
+          "Allergies",
+          "Medications",
+          "Vaccines",
+          "Problems",
+          "Family History",
+          "Social History",
+          "Substance Use"
+        ]
+      },
+      "markers": {
+        "clinical_note_marker": {
+          "value": true,
+          "evidence": [
+            "Chief Complaint",
+            "Problems"
+          ]
+        },
+        "has_narrative_sentences": {
+          "value": false
+        },
+        "emergency_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "hospitalization_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "chiropractic_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "therapy_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "re_evaluation_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "laboratory_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "administrative_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "billing_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "clinical_discharge_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "ems_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "legal_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "clinical_intake_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "admin_intake_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "procedural_consent_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "official_crash_report_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "patient_education_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "flow_sheet_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "new_document_marker": {
+          "value": true,
+          "evidence": [
+            "New encounter header with patient table"
+          ]
+        },
+        "continuation_page_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "page_seq_marker": {
+          "page_seq_text": "page 18"
+        },
+        "clinical_topic_match": {
+          "value": true,
+          "confidence": "high",
+          "reason": "Matches previous page topic."
+        }
+      },
+      "ambiguities": [],
+      "page_no": "18"
+    },
+    {
+      "input_page_index": 19,
+      "document_type": "Clinical Note",
+      "metadata": {
+        "document_title": "BAPTISTE, Adrian (id #5308762, dob: 10/25/1988)",
+        "packet_generation_date": null,
+        "candidate_dos_dates": null,
+        "provider": null,
+        "provider_designation": null,
+        "facility_name": {
+          "value": "FLORIDA ORTHOPAEDIC INSTITUTE",
+          "confidence": "high",
+          "reason": "Header of the document",
+          "context_line": "FLORIDA ORTHOPAEDIC INSTITUTE \u2022 5901 E FOWLER AVE STE 100, TAMPA FL 33617-2362"
+        },
+        "section_headers": [
+          "Education and Occupation",
+          "Advance Directive",
+          "FOI Social History",
+          "Surgical & Procedure History",
+          "Past Medical History",
+          "HPI",
+          "ROS",
+          "Physical Exam",
+          "Procedure Documentation"
+        ]
+      },
+      "markers": {
+        "clinical_note_marker": {
+          "value": true,
+          "evidence": [
+            "HPI",
+            "ROS",
+            "Physical Exam"
+          ]
+        },
+        "has_narrative_sentences": {
+          "value": true
+        },
+        "emergency_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "hospitalization_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "chiropractic_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "therapy_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "re_evaluation_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "laboratory_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "administrative_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "billing_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "clinical_discharge_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "ems_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "legal_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "clinical_intake_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "admin_intake_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "procedural_consent_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "official_crash_report_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "patient_education_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "flow_sheet_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "new_document_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "continuation_page_marker": {
+          "value": true,
+          "evidence": [
+            "Repeated page header",
+            "Starts mid-section"
+          ]
+        },
+        "page_seq_marker": {
+          "page_seq_text": "page 19"
+        },
+        "clinical_topic_match": {
+          "value": true,
+          "confidence": "high",
+          "reason": "Matches previous page topic."
+        }
+      },
+      "ambiguities": [],
+      "page_no": "19"
+    },
+    {
+      "input_page_index": 20,
+      "document_type": "Clinical Note",
+      "metadata": {
+        "document_title": "BAPTISTE, Adrian (id #5308762, dob: 10/25/1988)",
+        "packet_generation_date": null,
+        "candidate_dos_dates": [
+          {
+            "value": "2025-11-04",
+            "confidence": "high",
+            "reason": "Encounter signed-off date",
+            "location": "bottom_signature",
+            "context_line": "Encounter signed-off by Christopher Baker, MD, 11/04/2025.",
+            "surrounding_text": "Christopher Baker, MD, 11/04/2025. Encounter performed"
+          }
+        ],
+        "provider": {
+          "value": "Christopher Baker",
+          "confidence": "high",
+          "role": "attending",
+          "reason": "Signed off the encounter"
+        },
+        "provider_designation": {
+          "value": "MD"
+        },
+        "facility_name": {
+          "value": "FLORIDA ORTHOPAEDIC INSTITUTE",
+          "confidence": "high",
+          "reason": "Header of the document",
+          "context_line": "FLORIDA ORTHOPAEDIC INSTITUTE \u2022 5901 E FOWLER AVE STE 100, TAMPA FL 33617-2362"
+        },
+        "section_headers": [
+          "Assessment / Plan",
+          "Discussion Notes",
+          "Return to Office",
+          "Encounter Sign-Off"
+        ]
+      },
+      "markers": {
+        "clinical_note_marker": {
+          "value": true,
+          "evidence": [
+            "Assessment / Plan",
+            "Discussion Notes"
+          ]
+        },
+        "has_narrative_sentences": {
+          "value": true
+        },
+        "emergency_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "hospitalization_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "chiropractic_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "therapy_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "re_evaluation_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "laboratory_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "administrative_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "billing_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "clinical_discharge_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "ems_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "legal_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "clinical_intake_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "admin_intake_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "procedural_consent_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "official_crash_report_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "patient_education_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "flow_sheet_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "new_document_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "continuation_page_marker": {
+          "value": true,
+          "evidence": [
+            "Repeated page header"
+          ]
+        },
+        "page_seq_marker": {
+          "page_seq_text": "page 20"
+        },
+        "clinical_topic_match": {
+          "value": true,
+          "confidence": "high",
+          "reason": "Matches previous page topic."
+        }
+      },
+      "ambiguities": [],
+      "page_no": "20"
+    },
+    {
+      "input_page_index": 21,
+      "document_type": "Clinical Intake/Questionnaire",
+      "metadata": {
+        "document_title": "BAPTISTE, Adrian (id #5308762, dob: 10/25/1988)",
+        "packet_generation_date": null,
+        "candidate_dos_dates": [
+          {
+            "value": "2025-10-31",
+            "confidence": "high",
+            "reason": "Encounter Date listed in header",
+            "location": "top_header",
+            "context_line": "Encounter Date: 10/31/2025",
+            "surrounding_text": "id #5308762, dob: 10/25/1988) Encounter Date: 10/31/2025 Patient | Name | BAPTISTE, ADRIAN"
+          },
+          {
+            "value": "2025-07-28",
+            "confidence": "high",
+            "reason": "Case Injury Date",
+            "location": "narrative_body",
+            "context_line": "Case Injury Date : 07/28/2025 Prescription: check now",
+            "surrounding_text": "FVT6119 Case Injury Date : 07/28/2025 Prescription: check now | Name | BAPTISTE, ADRIAN"
+          }
+        ],
+        "provider": {
+          "value": "ADIL SAMAD",
+          "confidence": "high",
+          "role": "attending",
+          "reason": "Listed as Provider in the patient header section"
+        },
+        "provider_designation": {
+          "value": "MD"
+        },
+        "facility_name": {
+          "value": "FLORIDA ORTHOPAEDIC INSTITUTE",
+          "confidence": "high",
+          "reason": "Found in the page header",
+          "context_line": "FLORIDA ORTHOPAEDIC INSTITUTE \u2022 5901 E FOWLER AVE STE 100, TAMPA FL 33617-2362"
+        },
+        "section_headers": [
+          "Chief Complaint",
+          "Patient\u2019s Care Team",
+          "Patient\u2019s Pharmacies",
+          "Vitals",
+          "Allergies",
+          "Medications",
+          "Vaccines",
+          "Problems",
+          "Social History",
+          "Substance Use",
+          "Education and Occupation",
+          "Advance Directive",
+          "FOI Social History"
+        ]
+      },
+      "markers": {
+        "clinical_note_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "has_narrative_sentences": {
+          "value": true
+        },
+        "emergency_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "hospitalization_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "chiropractic_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "therapy_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "re_evaluation_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "laboratory_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "administrative_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "billing_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "clinical_discharge_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "ems_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "legal_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "clinical_intake_marker": {
+          "value": true,
+          "evidence": [
+            "Social History",
+            "Substance Use",
+            "Education and Occupation",
+            "FOI Social History"
+          ]
+        },
+        "admin_intake_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "procedural_consent_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "official_crash_report_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "patient_education_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "flow_sheet_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "new_document_marker": {
+          "value": true,
+          "evidence": [
+            "New patient demographics block",
+            "New encounter header"
+          ]
+        },
+        "continuation_page_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "page_seq_marker": {
+          "page_seq_text": null
+        },
+        "clinical_topic_match": {
+          "value": false,
+          "confidence": "low",
+          "reason": "Previous page was a procedure/assessment note, this page starts a new intake/demographic section"
+        }
+      },
+      "ambiguities": [],
+      "page_no": "21"
+    },
+    {
+      "input_page_index": 22,
+      "document_type": "Clinical Note",
+      "metadata": {
+        "document_title": "BAPTISTE, Adrian (id #5308762, dob: 10/25/1988)",
+        "packet_generation_date": null,
+        "candidate_dos_dates": [
+          {
+            "value": "2025-10-31",
+            "confidence": "high",
+            "reason": "Encounter signed-off date",
+            "location": "bottom_signature",
+            "context_line": "Encounter signed-off by Adil Samad, MD, 10/31/2025.",
+            "surrounding_text": "Adil Samad, MD, 10/31/2025. Encounter performed and documented by Adil Samad, MD Encounter reviewed & signed by Adil Samad, MD on 10/31/2025 at 11:40 AM"
+          }
+        ],
+        "provider": {
+          "value": "ADIL SAMAD",
+          "confidence": "high",
+          "role": "attending",
+          "reason": "Signed off the encounter"
+        },
+        "provider_designation": {
+          "value": "MD"
+        },
+        "facility_name": {
+          "value": "FLORIDA ORTHOPAEDIC INSTITUTE",
+          "confidence": "high",
+          "reason": "Found in the page header",
+          "context_line": "FLORIDA ORTHOPAEDIC INSTITUTE \u2022 5901 E FOWLER AVE STE 100, TAMPA FL 33617-2362"
+        },
+        "section_headers": [
+          "Surgical & Procedure History",
+          "Assessment / Plan",
+          "Return to Office",
+          "Encounter Sign-Off"
+        ]
+      },
+      "markers": {
+        "clinical_note_marker": {
+          "value": true,
+          "evidence": [
+            "Assessment / Plan",
+            "Encounter Sign-Off"
+          ]
+        },
+        "has_narrative_sentences": {
+          "value": true
+        },
+        "emergency_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "hospitalization_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "chiropractic_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "therapy_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "re_evaluation_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "laboratory_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "administrative_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "billing_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "clinical_discharge_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "ems_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "legal_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "clinical_intake_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "admin_intake_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "procedural_consent_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "official_crash_report_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "patient_education_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "flow_sheet_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "new_document_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "continuation_page_marker": {
+          "value": true,
+          "evidence": [
+            "Starts mid-sentence/section",
+            "Repeated header"
+          ]
+        },
+        "page_seq_marker": {
+          "page_seq_text": null
+        },
+        "clinical_topic_match": {
+          "value": true,
+          "confidence": "high",
+          "reason": "Continues the clinical assessment of the same patient"
+        }
+      },
+      "ambiguities": [],
+      "page_no": "22"
+    },
+    {
+      "input_page_index": 23,
+      "document_type": "Clinical Note",
+      "metadata": {
+        "document_title": "BAPTISTE, Adrian (id #5308762, dob: 10/25/1988)",
+        "packet_generation_date": null,
+        "candidate_dos_dates": [
+          {
+            "value": "2025-10-31",
+            "confidence": "high",
+            "reason": "Encounter Date listed in header",
+            "location": "top_header",
+            "context_line": "Encounter Date: 10/31/2025",
+            "surrounding_text": "id #5308762, dob: 10/25/1988) Encounter Date: 10/31/2025 Patient | Name | BAPTISTE, ADRIAN"
+          }
+        ],
+        "provider": {
+          "value": "ADIL SAMAD",
+          "confidence": "high",
+          "role": "attending",
+          "reason": "Listed as Provider in the patient header section"
+        },
+        "provider_designation": {
+          "value": "MD"
+        },
+        "facility_name": {
+          "value": "FLORIDA ORTHOPAEDIC INSTITUTE",
+          "confidence": "high",
+          "reason": "Found in the page header",
+          "context_line": "FLORIDA ORTHOPAEDIC INSTITUTE \u2022 5901 E FOWLER AVE STE 100, TAMPA FL 33617-2362"
+        },
+        "section_headers": [
+          "Chief Complaint",
+          "Patient\u2019s Care Team",
+          "Patient\u2019s Pharmacies",
+          "Vitals",
+          "Allergies",
+          "Medications",
+          "Vaccines",
+          "Problems",
+          "Social History",
+          "Education and Occupation"
+        ]
+      },
+      "markers": {
+        "clinical_note_marker": {
+          "value": true,
+          "evidence": [
+            "Transition of Care Encounter",
+            "Chief Complaint"
+          ]
+        },
+        "has_narrative_sentences": {
+          "value": true
+        },
+        "emergency_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "hospitalization_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "chiropractic_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "therapy_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "re_evaluation_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "laboratory_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "administrative_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "billing_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "clinical_discharge_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "ems_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "legal_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "clinical_intake_marker": {
+          "value": true,
+          "evidence": [
+            "Social History",
+            "Education and Occupation"
+          ]
+        },
+        "admin_intake_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "procedural_consent_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "official_crash_report_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "patient_education_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "flow_sheet_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "new_document_marker": {
+          "value": true,
+          "evidence": [
+            "New document title: Transition of Care Encounter"
+          ]
+        },
+        "continuation_page_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "page_seq_marker": {
+          "page_seq_text": null
+        },
+        "clinical_topic_match": {
+          "value": true,
+          "confidence": "medium",
+          "reason": "New encounter (Transition of Care) but same patient and clinical context"
+        }
+      },
+      "ambiguities": [],
+      "page_no": "23"
+    },
+    {
+      "input_page_index": 24,
+      "document_type": "Clinical Note",
+      "metadata": {
+        "document_title": "BAPTISTE, Adrian (id #5308762, dob: 10/25/1988)",
+        "packet_generation_date": null,
+        "candidate_dos_dates": [],
+        "provider": {
+          "value": "ADIL SAMAD",
+          "confidence": "low",
+          "role": "attending",
+          "reason": "Provider not explicitly on this page, inferred from previous pages"
+        },
+        "provider_designation": null,
+        "facility_name": {
+          "value": "FLORIDA ORTHOPAEDIC INSTITUTE",
+          "confidence": "high",
+          "reason": "Found in the page header",
+          "context_line": "FLORIDA ORTHOPAEDIC INSTITUTE \u2022 5901 E FOWLER AVE STE 100, TAMPA FL 33617-2362"
+        },
+        "section_headers": [
+          "Advance Directive",
+          "FOI Social History",
+          "Surgical & Procedure History",
+          "HPI",
+          "ROS",
+          "Physical Exam"
+        ]
+      },
+      "markers": {
+        "clinical_note_marker": {
+          "value": true,
+          "evidence": [
+            "HPI",
+            "ROS",
+            "Physical Exam"
+          ]
+        },
+        "has_narrative_sentences": {
+          "value": true
+        },
+        "emergency_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "hospitalization_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "chiropractic_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "therapy_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "re_evaluation_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "laboratory_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "administrative_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "billing_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "clinical_discharge_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "ems_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "legal_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "clinical_intake_marker": {
+          "value": true,
+          "evidence": [
+            "FOI Social History",
+            "HPI"
+          ]
+        },
+        "admin_intake_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "procedural_consent_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "official_crash_report_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "patient_education_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "flow_sheet_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "new_document_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "continuation_page_marker": {
+          "value": true,
+          "evidence": [
+            "Starts mid-section (Education and Occupation)"
+          ]
+        },
+        "page_seq_marker": {
+          "page_seq_text": null
+        },
+        "clinical_topic_match": {
+          "value": true,
+          "confidence": "high",
+          "reason": "Continues the HPI/ROS/Exam of the same encounter"
+        }
+      },
+      "ambiguities": [],
+      "page_no": "24"
+    },
+    {
+      "input_page_index": 25,
+      "document_type": "Clinical Note",
+      "metadata": {
+        "document_title": "BAPTISTE, Adrian (id #5308762, dob: 10/25/1988)",
+        "packet_generation_date": null,
+        "candidate_dos_dates": [
+          {
+            "value": "2025-10-31",
+            "confidence": "high",
+            "reason": "Date of X-rays performed",
+            "location": "narrative_body",
+            "context_line": "X-rays of the cervical spine, 4 views (AP, lateral, flexion and extension) performed on October 31, 2025 at Florida Orthopaedic Institute",
+            "surrounding_text": "performed on October 31, 2025 at Florida Orthopaedic Institute were personally"
+          }
+        ],
+        "provider": {
+          "value": "ADIL SAMAD",
+          "confidence": "low",
+          "role": "attending",
+          "reason": "Inferred from context of 'reviewed by me'"
+        },
+        "provider_designation": null,
+        "facility_name": {
+          "value": "FLORIDA ORTHOPAEDIC INSTITUTE",
+          "confidence": "high",
+          "reason": "Found in the page header",
+          "context_line": "FLORIDA ORTHOPAEDIC INSTITUTE \u2022 5901 E FOWLER AVE STE 100, TAMPA FL 33617-2362"
+        },
+        "section_headers": [
+          "Assessment / Plan",
+          "1. Neck pain"
+        ]
+      },
+      "markers": {
+        "clinical_note_marker": {
+          "value": true,
+          "evidence": [
+            "Assessment / Plan"
+          ]
+        },
+        "has_narrative_sentences": {
+          "value": true
+        },
+        "emergency_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "hospitalization_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "chiropractic_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "therapy_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "re_evaluation_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "laboratory_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "administrative_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "billing_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "clinical_discharge_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "ems_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "legal_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "clinical_intake_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "admin_intake_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "procedural_consent_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "official_crash_report_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "patient_education_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "flow_sheet_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "new_document_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "continuation_page_marker": {
+          "value": true,
+          "evidence": [
+            "Starts mid-sentence/section"
+          ]
+        },
+        "page_seq_marker": {
+          "page_seq_text": null
+        },
+        "clinical_topic_match": {
+          "value": true,
+          "confidence": "high",
+          "reason": "Continues the Assessment/Plan of the same encounter"
+        }
+      },
+      "ambiguities": [],
+      "page_no": "25"
+    },
+    {
+      "input_page_index": 26,
+      "document_type": "Clinical Note",
+      "metadata": {
+        "document_title": "2. Cervical radiculopathy",
+        "packet_generation_date": null,
+        "candidate_dos_dates": [
+          {
+            "value": "2025-11-04",
+            "confidence": "high",
+            "reason": "Encounter date listed in return to office section",
+            "location": "narrative_body",
+            "context_line": "Christopher Baker, MD for WCEN-EST PT NEW WC INJURY at WCC_WESLEY CHAPEL CLINIC on 11/04/2025 at 10:50 AM",
+            "surrounding_text": "at WCC_WESLEY CHAPEL CLINIC on 11/04/2025 at 10:50 AM"
+          },
+          {
+            "value": "2025-11-19",
+            "confidence": "high",
+            "reason": "Encounter date listed in return to office section",
+            "location": "narrative_body",
+            "context_line": "Christopher Baker, MD for WCEP-WC ESTABLISHED PT at WCC_WESLEY CHAPEL CLINIC on 11/19/2025 at 09:50 AM",
+            "surrounding_text": "WCC_WESLEY CHAPEL CLINIC on 11/19/2025 at 09:50 AM"
+          },
+          {
+            "value": "2025-10-31",
+            "confidence": "high",
+            "reason": "Encounter signed-off date",
+            "location": "bottom_signature",
+            "context_line": "Encounter signed-off by Adil Samad, MD, 10/31/2025.",
+            "surrounding_text": "Adil Samad, MD, 10/31/2025. Encounter performed"
+          },
+          {
+            "value": "2025-10-31",
+            "confidence": "high",
+            "reason": "Encounter reviewed date",
+            "location": "bottom_signature",
+            "context_line": "Encounter reviewed & signed by Adil Samad, MD on 10/31/2025 at 01:57 PM",
+            "surrounding_text": "Adil Samad, MD on 10/31/2025 at 01:57 PM"
+          }
+        ],
+        "provider": {
+          "value": "Adil Samad",
+          "confidence": "high",
+          "role": "signing",
+          "reason": "Encounter signed-off by Adil Samad, MD"
+        },
+        "provider_designation": {
+          "value": "MD"
+        },
+        "facility_name": {
+          "value": "WCC_WESLEY CHAPEL CLINIC",
+          "confidence": "medium",
+          "reason": "Clinic name associated with the encounter",
+          "context_line": "Christopher Baker, MD for WCEN-EST PT NEW WC INJURY at WCC_WESLEY CHAPEL CLINIC on 11/04/2025 at 10:50 AM"
+        },
+        "section_headers": [
+          "Encounter Sign-Off"
+        ]
+      },
+      "markers": {
+        "clinical_note_marker": {
+          "value": true,
+          "evidence": [
+            "Cervical radiculopathy",
+            "Encounter Sign-Off"
+          ]
+        },
+        "has_narrative_sentences": {
+          "value": false
+        },
+        "emergency_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "hospitalization_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "chiropractic_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "therapy_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "re_evaluation_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "laboratory_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "administrative_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "billing_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "clinical_discharge_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "ems_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "legal_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "clinical_intake_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "admin_intake_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "procedural_consent_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "official_crash_report_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "patient_education_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "flow_sheet_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "new_document_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "continuation_page_marker": {
+          "value": true,
+          "evidence": [
+            "Page 26"
+          ]
+        },
+        "page_seq_marker": {
+          "page_seq_text": null
+        },
+        "clinical_topic_match": {
+          "value": true,
+          "confidence": "high",
+          "reason": "Continues discussion of cervical radiculopathy from previous page"
+        }
+      },
+      "ambiguities": [],
+      "page_no": "26"
+    },
+    {
+      "input_page_index": 27,
+      "document_type": "Clinical Intake/Questionnaire",
+      "metadata": {
+        "document_title": null,
+        "packet_generation_date": null,
+        "candidate_dos_dates": [
+          {
+            "value": "2025-10-21",
+            "confidence": "high",
+            "reason": "Encounter date",
+            "location": "top_header",
+            "context_line": "Encounter Date: 10/21/2025",
+            "surrounding_text": "Adrian (id #5308762, dob: 10/25/1988) Encounter Date: 10/21/2025 Patient"
+          }
+        ],
+        "provider": {
+          "value": "Christopher Baker",
+          "confidence": "high",
+          "role": "attending",
+          "reason": "Listed under Provider"
+        },
+        "provider_designation": {
+          "value": "MD"
+        },
+        "facility_name": {
+          "value": "WCC_WESLEY CHAPEL CLINIC",
+          "confidence": "high",
+          "reason": "Service Dept listed",
+          "context_line": "Service Dept. WCC_WESLEY CHAPEL CLINIC"
+        },
+        "section_headers": [
+          "Chief Complaint",
+          "Patient's Care Team",
+          "Vitals",
+          "Allergies",
+          "Medications",
+          "Vaccines",
+          "Problems",
+          "Social History",
+          "Substance Use",
+          "Education and Occupation",
+          "Advance Directive",
+          "FOI Social History"
+        ]
+      },
+      "markers": {
+        "clinical_note_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "has_narrative_sentences": {
+          "value": true
+        },
+        "emergency_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "hospitalization_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "chiropractic_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "therapy_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "re_evaluation_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "laboratory_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "administrative_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "billing_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "clinical_discharge_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "ems_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "legal_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "clinical_intake_marker": {
+          "value": true,
+          "evidence": [
+            "Social History",
+            "FOI Social History",
+            "Do you or have you ever smoked tobacco?"
+          ]
+        },
+        "admin_intake_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "procedural_consent_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "official_crash_report_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "patient_education_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "flow_sheet_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "new_document_marker": {
+          "value": true,
+          "evidence": [
+            "Encounter Date: 10/21/2025"
+          ]
+        },
+        "continuation_page_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "page_seq_marker": {
+          "page_seq_text": null
+        },
+        "clinical_topic_match": {
+          "value": true,
+          "confidence": "high",
+          "reason": "Same patient and encounter context"
+        }
+      },
+      "ambiguities": [],
+      "page_no": "27"
+    },
+    {
+      "input_page_index": 28,
+      "document_type": "Clinical Note",
+      "metadata": {
+        "document_title": null,
+        "packet_generation_date": null,
+        "candidate_dos_dates": [
+          {
+            "value": "2025-10-21",
+            "confidence": "high",
+            "reason": "Date mentioned in documents discussed and HPI context",
+            "location": "narrative_body",
+            "context_line": "XR, SHOULDER, 2 OR MORE VIEW - 10/21/25",
+            "surrounding_text": "discussed the following documents: XR, SHOULDER, 2 OR MORE VIEW - 10/21/25 Patient Portal"
+          }
+        ],
+        "provider": null,
+        "provider_designation": null,
+        "facility_name": {
+          "value": "FLORIDA ORTHOPAEDIC INSTITUTE",
+          "confidence": "high",
+          "reason": "Header",
+          "context_line": "FLORIDA ORTHOPAEDIC INSTITUTE \u2022 5901 E FOWLER AVE STE 100, TAMPA FL 33617-2362"
+        },
+        "section_headers": [
+          "Surgical & Procedure History",
+          "Documents for Discussion",
+          "HPI",
+          "ROS",
+          "Physical Exam",
+          "Procedure Documentation",
+          "Assessment / Plan"
+        ]
+      },
+      "markers": {
+        "clinical_note_marker": {
+          "value": true,
+          "evidence": [
+            "HPI",
+            "ROS",
+            "Physical Exam",
+            "Assessment / Plan"
+          ]
+        },
+        "has_narrative_sentences": {
+          "value": true
+        },
+        "emergency_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "hospitalization_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "chiropractic_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "therapy_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "re_evaluation_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "laboratory_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "administrative_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "billing_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "clinical_discharge_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "ems_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "legal_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "clinical_intake_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "admin_intake_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "procedural_consent_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "official_crash_report_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "patient_education_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "flow_sheet_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "new_document_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "continuation_page_marker": {
+          "value": true,
+          "evidence": [
+            "Continuation of HPI/ROS/Exam"
+          ]
+        },
+        "page_seq_marker": {
+          "page_seq_text": null
+        },
+        "clinical_topic_match": {
+          "value": true,
+          "confidence": "high",
+          "reason": "Continuation of clinical note"
+        }
+      },
+      "ambiguities": [],
+      "page_no": "28"
+    },
+    {
+      "input_page_index": 29,
+      "document_type": "Clinical Note",
+      "metadata": {
+        "document_title": null,
+        "packet_generation_date": null,
+        "candidate_dos_dates": [
+          {
+            "value": "2025-10-21",
+            "confidence": "high",
+            "reason": "Encounter date in sign-off",
+            "location": "bottom_signature",
+            "context_line": "Encounter signed by EMILY BURROUGHS, PA-C as scribe at 10/21/2025 at 01:40 PM",
+            "surrounding_text": "as scribe at 10/21/2025 at 01:40 PM"
+          }
+        ],
+        "provider": {
+          "value": "Emily Burroughs",
+          "confidence": "high",
+          "role": "signing",
+          "reason": "Encounter signed by EMILY BURROUGHS, PA-C"
+        },
+        "provider_designation": {
+          "value": "PA-C"
+        },
+        "facility_name": {
+          "value": "FLORIDA ORTHOPAEDIC INSTITUTE",
+          "confidence": "high",
+          "reason": "Header",
+          "context_line": "FLORIDA ORTHOPAEDIC INSTITUTE \u2022 5901 E FOWLER AVE STE 100, TAMPA FL 33617-2362"
+        },
+        "section_headers": [
+          "Discussion Notes",
+          "Return to Office",
+          "Encounter Sign-Off"
+        ]
+      },
+      "markers": {
+        "clinical_note_marker": {
+          "value": true,
+          "evidence": [
+            "Discussion Notes",
+            "Encounter Sign-Off"
+          ]
+        },
+        "has_narrative_sentences": {
+          "value": true
+        },
+        "emergency_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "hospitalization_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "chiropractic_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "therapy_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "re_evaluation_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "laboratory_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "administrative_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "billing_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "clinical_discharge_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "ems_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "legal_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "clinical_intake_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "admin_intake_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "procedural_consent_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "official_crash_report_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "patient_education_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "flow_sheet_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "new_document_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "continuation_page_marker": {
+          "value": true,
+          "evidence": [
+            "Continuation of clinical note"
+          ]
+        },
+        "page_seq_marker": {
+          "page_seq_text": null
+        },
+        "clinical_topic_match": {
+          "value": true,
+          "confidence": "high",
+          "reason": "Continuation of clinical note"
+        }
+      },
+      "ambiguities": [],
+      "page_no": "29"
+    },
+    {
+      "input_page_index": 30,
+      "document_type": "Billing/Financial Doc",
+      "metadata": {
+        "document_title": "Billing Summary",
+        "packet_generation_date": null,
+        "candidate_dos_dates": [
+          {
+            "value": "2025-10-21",
+            "confidence": "high",
+            "reason": "Date of service in billing table",
+            "location": "narrative_body",
+            "context_line": "20610,RT | 10/21/2025 | 10/22/2025 | CHARGE",
+            "surrounding_text": "20610,RT | 10/21/2025 | 10/22/2025 | CHARGE | 20610,RT"
+          }
+        ],
+        "provider": {
+          "value": "Christopher Baker",
+          "confidence": "high",
+          "role": "supervising",
+          "reason": "Listed as Supervising Provider in billing table"
+        },
+        "provider_designation": null,
+        "facility_name": {
+          "value": "FLORIDA ORTHOPAEDIC INSTITUTE",
+          "confidence": "high",
+          "reason": "Header",
+          "context_line": "FLORIDA ORTHOPAEDIC INSTITUTE"
+        },
+        "section_headers": [
+          "Billing Address",
+          "GUARANTOR NAME AND ADDRESS",
+          "PATIENT",
+          "Billing Summary"
+        ]
+      },
+      "markers": {
+        "clinical_note_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "has_narrative_sentences": {
+          "value": false
+        },
+        "emergency_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "hospitalization_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "chiropractic_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "therapy_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "re_evaluation_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "laboratory_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "administrative_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "billing_marker": {
+          "value": true,
+          "evidence": [
+            "$330.00",
+            "CHARGE",
+            "PAYMENT",
+            "ADJUSTMENT",
+            "OUTSTANDING"
+          ]
+        },
+        "clinical_discharge_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "ems_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "legal_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "clinical_intake_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "admin_intake_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "procedural_consent_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "official_crash_report_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "patient_education_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "flow_sheet_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "new_document_marker": {
+          "value": true,
+          "evidence": [
+            "Billing Summary"
+          ]
+        },
+        "continuation_page_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "page_seq_marker": {
+          "page_seq_text": null
+        },
+        "clinical_topic_match": {
+          "value": false,
+          "confidence": "high",
+          "reason": "New document type (Billing)"
+        }
+      },
+      "ambiguities": [],
+      "page_no": "30"
+    },
+    {
+      "input_page_index": 31,
+      "document_type": "Billing/Financial Doc",
+      "metadata": {
+        "document_title": null,
+        "packet_generation_date": null,
+        "candidate_dos_dates": [
+          {
+            "value": "2025-10-31",
+            "confidence": "high",
+            "reason": "Date of service for claim 6655763",
+            "location": "narrative_body",
+            "context_line": "6655763 | 99367 | 10/31/2025 | 11/03/2025 | CHARGE | 99367 | TRAVELERS | ADIL SAMAD | $290.00 | | |",
+            "surrounding_text": "99367 10/31/2025 11/03/2025 CHARGE"
+          },
+          {
+            "value": "2025-11-04",
+            "confidence": "high",
+            "reason": "Date of service for claim 6668820",
+            "location": "narrative_body",
+            "context_line": "6668820 | 20610,RT | 11/04/2025 | 11/05/2025 | CHARGE | 20610,RT | TRAVELERS | CHRISTOPHER BAKER | $330.00 | | |",
+            "surrounding_text": "20610,RT 11/04/2025 11/05/2025 CHARGE"
+          },
+          {
+            "value": "2025-11-19",
+            "confidence": "high",
+            "reason": "Date of service for claim 6751439",
+            "location": "narrative_body",
+            "context_line": "6751439 | 99455 | 11/19/2025 | 11/20/2025 | CHARGE | 99455 | TRAVELERS | CHRISTOPHER BAKER | $1,000.00 | | |",
+            "surrounding_text": "99455 11/19/2025 11/20/2025 CHARGE"
+          },
+          {
+            "value": "2025-12-10",
+            "confidence": "high",
+            "reason": "Date of service for claim 6847339",
+            "location": "narrative_body",
+            "context_line": "6847339 | 99455 | 12/10/2025 | 12/11/2025 | CHARGE | 99455 | TRAVELERS | CHRISTOPHER BAKER | $1,000.00 | | |",
+            "surrounding_text": "99455 12/10/2025 12/11/2025 CHARGE"
+          }
+        ],
+        "provider": null,
+        "provider_designation": null,
+        "facility_name": null,
+        "section_headers": []
+      },
+      "markers": {
+        "clinical_note_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "has_narrative_sentences": {
+          "value": false
+        },
+        "emergency_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "hospitalization_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "chiropractic_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "therapy_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "re_evaluation_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "laboratory_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "administrative_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "billing_marker": {
+          "value": true,
+          "evidence": [
+            "$290.00",
+            "$-94.00",
+            "$-196.00",
+            "CHARGE",
+            "PAYMENT",
+            "ADJUSTMENT"
+          ]
+        },
+        "clinical_discharge_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "ems_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "legal_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "clinical_intake_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "admin_intake_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "procedural_consent_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "official_crash_report_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "patient_education_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "flow_sheet_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "new_document_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "continuation_page_marker": {
+          "value": true,
+          "evidence": [
+            "Starts mid-table",
+            "No document title"
+          ]
+        },
+        "page_seq_marker": {
+          "page_seq_text": null
+        },
+        "clinical_topic_match": {
+          "value": true,
+          "confidence": "high",
+          "reason": "Continuation of billing summary from previous page"
+        }
+      },
+      "ambiguities": [],
+      "page_no": "31"
+    },
+    {
+      "input_page_index": 32,
+      "document_type": "Billing/Financial Doc",
+      "metadata": {
+        "document_title": null,
+        "packet_generation_date": null,
+        "candidate_dos_dates": [
+          {
+            "value": "2026-01-20",
+            "confidence": "high",
+            "reason": "Date of service for claim 7027661",
+            "location": "narrative_body",
+            "context_line": "7027661 | 99215 | 01/20/2026 | 01/21/2026 | CHARGE | 99215 | TRAVELERS | ADIL SAMAD | $911.00 | | |",
+            "surrounding_text": "99215 01/20/2026 01/21/2026 CHARGE"
+          },
+          {
+            "value": "2026-02-17",
+            "confidence": "high",
+            "reason": "Date of service for claim 7185800",
+            "location": "narrative_body",
+            "context_line": "7185800 | 99214 | 02/17/2026 | 02/18/2026 | CHARGE | 99214 | TRAVELERS | ADIL SAMAD | $641.00 | | |",
+            "surrounding_text": "99214 02/17/2026 02/18/2026 CHARGE"
+          }
+        ],
+        "provider": null,
+        "provider_designation": null,
+        "facility_name": null,
+        "section_headers": []
+      },
+      "markers": {
+        "clinical_note_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "has_narrative_sentences": {
+          "value": false
+        },
+        "emergency_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "hospitalization_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "chiropractic_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "therapy_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "re_evaluation_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "laboratory_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "administrative_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "billing_marker": {
+          "value": true,
+          "evidence": [
+            "$911.00",
+            "$-295.00",
+            "$-616.00",
+            "CHARGE",
+            "PAYMENT",
+            "ADJUSTMENT"
+          ]
+        },
+        "clinical_discharge_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "ems_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "legal_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "clinical_intake_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "admin_intake_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "procedural_consent_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "official_crash_report_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "patient_education_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "flow_sheet_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "new_document_marker": {
+          "value": false,
+          "evidence": []
+        },
+        "continuation_page_marker": {
+          "value": true,
+          "evidence": [
+            "Starts mid-table",
+            "No document title"
+          ]
+        },
+        "page_seq_marker": {
+          "page_seq_text": null
+        },
+        "clinical_topic_match": {
+          "value": true,
+          "confidence": "high",
+          "reason": "Continuation of billing summary from previous page"
+        }
+      },
+      "ambiguities": [],
+      "page_no": "32"
+    }
+  ]
+}
